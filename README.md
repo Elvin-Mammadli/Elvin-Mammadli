@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Elvin-Mammadli
 - 👀 I’m interested in technology, I love coding :)
-- 🌱 I’m currently learning nodejs, nextjs
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me: https://www.linkedin.com/in/elvinmammadli/
 
