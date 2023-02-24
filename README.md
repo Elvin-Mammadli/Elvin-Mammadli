@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elvin-Mammadli
 - 👀 I’m interested in technology, I love coding :)
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m looking to collaborate on front-end projects
 - 📫 How to reach me: https://www.linkedin.com/in/elvinmammadli/
 - 🌐 Portfolio: https://www.elvinmammadli.com/
 
